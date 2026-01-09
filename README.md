@@ -1,2 +1,2 @@
-# react-to-do-list
-# react-to-do-list
+# nextjs-to-do-list
+# nextjs-to-do-list
